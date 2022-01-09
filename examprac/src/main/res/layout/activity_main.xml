@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"     xmlns:app="http://schemas.android.com/apk/res-auto"     xmlns:tools="http://schemas.android.com/tools"     android:layout_width="match_parent"     android:layout_height="match_parent"     android:orientation="vertical"     tools:context=".MainActivity">
+    <TextView
+        android:layout_width="match_parent"         android:layout_height="wrap_content"         android:text="Linear Layout"         android:textSize="30dp"         android:textColor="#364FE2"         android:layout_marginTop="30dp"         android:textAlignment="center"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"         android:layout_height="wrap_content"         android:text="Mobile Application Development Lab"         android:textColor="#000"         android:textSize="20dp"         android:layout_marginTop="30dp"         android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"         android:layout_height="wrap_content"         android:text="Instructor: Vishnu Vardhan Sir"         android:textColor="#000"         android:textSize="20dp"         android:layout_marginTop="10dp"         android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"         android:layout_height="wrap_content"         android:text="CSE Section-1"         android:textColor="#000"         android:textSize="20dp"         android:layout_marginTop="10dp"         android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"         android:layout_height="wrap_content"         android:text="PVPSIT"         android:textColor="#000"         android:textSize="20dp"         android:layout_marginTop="10dp"         android:textAlignment="center"/>
+
+</LinearLayout>
